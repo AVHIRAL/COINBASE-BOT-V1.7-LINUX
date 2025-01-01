@@ -5,7 +5,7 @@ sudo apt update
 sudo apt install python3-pip
 python3 -m pip install ccxt
 
-Edit with your API COINBASE for avhiral_bot_coinbase_linux_v1.6.py:
+Edit with your API COINBASE for avhiral_bot_coinbase_linux_v1.7.py:
 
 nano avhiral_bot_coinbase_linux_v1.7.py
 
