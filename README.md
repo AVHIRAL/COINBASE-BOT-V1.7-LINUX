@@ -31,3 +31,5 @@ python3 avhiral_bot_coinbase_linux_v1.7.py --monitorlive
 
 python3 avhiral_bot_coinbase_linux_v1.7.py --stop
 
+DON PAYPAL : https://www.paypal.com/donate/?hosted_button_id=EZW7NMLW8YG4W
+
