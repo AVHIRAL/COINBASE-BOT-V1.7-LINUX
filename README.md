@@ -1,11 +1,4 @@
-    @@   @  @  @  @  @@@  @@@    @@   @
-   @@@@  @  @  @  @   @   @  @  @@@@  @
-   @  @  @  @  @@@@   @   @  @  @  @  @ 
-   @@@@  @  @  @@@@   @   @@@   @@@@  @ 
-   @  @  @  @  @  @   @   @  @  @  @  @
-   @  @   @@   @  @  @@@  @  @  @  @  @@@ TE@M
-
-BOT COINBASE V1.7 TRADING 2024 PRIVATE - CODE : DAVID PILATO
+#BOT COINBASE V1.7 TRADING 2025 PRIVATE - CODE : DAVID PILATO
 
 Install :
 sudo apt update
